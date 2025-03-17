@@ -48,6 +48,33 @@ z-index: 1;
     height: auto;
 } */
 
+/* .carousel-inner .item{
+transition: transfom 0.5s ease-in-out;
+}
+
+.carousel-inner .active {
+    transform: translateY(0);
+    transition: transform 0.5s ease-in-out;
+}
+
+.carousel-inner .left  {
+    transform: translateX(100%);
+    transition: transform 0.5s ease-in-out;
+
+}
+
+
+.carousel-inner .right {
+    transform: translateX(100%);
+    transition: transform 0.5s ease-in-out;
+}
+
+ */
+
+
+
+
+
 
 
 .navbar .getstarted{
